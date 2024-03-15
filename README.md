@@ -1,3 +1,3 @@
 ##JogoAdivinha
 
-- Apenas um jogo simples de adivinhação para reforçar alguns conceitos de lógica de programação com JS.
+-  Um jogo simples feito em JS de adivinhação para reforçar alguns conceitos de lógica de programação. V1
